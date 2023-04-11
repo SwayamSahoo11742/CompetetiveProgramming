@@ -1,6 +1,16 @@
 #### Starting from 04/02/2023
 
 
+### 04/10/2023
+- new file:   CODEFORCES/1000/1784A.cpp
+- new file:   CODEFORCES/1100/1783B.cpp
+- new file:   CODEFORCES/1100/1787B.cpp
+
+### 04/11/2023
+- new file:   CODEFORCES/800/1815A.cpp
+- new file:   CODEFORCES/900/1815A.cpp
+- new file:   CODEFORCES/900/1816B.cpp
+
 ### 04/08/2023
 - new file:   CODEFORCES/1000/1811B.cpp
 - refactored and moved: CODEFORCES/1000/1788B.cpp -> CODEFORCES/1100/1788B.cpp
