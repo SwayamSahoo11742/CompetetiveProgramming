@@ -2,6 +2,11 @@
 
 
 ### 04/10/2023
+- new file:   CODEFORCES/1000/1781B.cpp
+- new file:   CODEFORCES/1100/1780B.cpp
+- new file:   CODEFORCES/900/1779B.cpp
+
+### 04/10/2023
 - new file:   CODEFORCES/1000/1784A.cpp
 - new file:   CODEFORCES/1100/1783B.cpp
 - new file:   CODEFORCES/1100/1787B.cpp
