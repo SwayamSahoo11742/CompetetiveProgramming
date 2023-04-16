@@ -1,5 +1,15 @@
 #### Starting from 04/02/2023
 
+### 04/16/2023
+- new file:   ALGORITHMS/BFS.cpp
+- new file:   ALGORITHMS/DFS.cpp
+- new file:   CODEFORCES/1100/1762B.cpp
+- modified:   HACKERRANK/INDIGO-2023/Building-Blocks.cpp
+
+Spent a long time learning and implementing BFS and DFS. easily managed to do Building Blocks 10 minutes after waking up after failing for 1 hour yesterday.
+
+
+
 ### 04/15/2023
  - new file:   ALGORITHMS/quick_sort.cpp
  - new file:   CODEFORCES/1000/1820B.cpp
