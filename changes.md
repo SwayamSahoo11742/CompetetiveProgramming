@@ -1,5 +1,34 @@
 #### Starting from 04/02/2023
 
+### 04/15/2023
+ - new file:   ALGORITHMS/quick_sort.cpp
+ - new file:   CODEFORCES/1000/1820B.cpp
+ - new file:   CODEFORCES/900/1820A.cpp
+ - new file:   CODEFORCES/Assorted/UTPC-2023-springA.cpp
+ - new file:   CODEFORCES/Assorted/UTPC-2023-springB.cpp
+ - new file:   CODEFORCES/Assorted/UTPC-2023-springC.cpp
+ - new file:   CODEFORCES/Assorted/UTPC-2023-springD.cpp
+ - new file:   HACKERRANK/INDIGO-2023/Breaking-Ground.cpp
+ - new file:   HACKERRANK/INDIGO-2023/Building-Blocks.cpp
+ - new file:   HACKERRANK/INDIGO-2023/Delicious-math.cpp
+ - new file:   HACKERRANK/INDIGO-2023/Ship-Navigation.cpp
+ - new file:   HACKERRANK/INDIGO-2023/adventures-of-curious-george.cpp
+
+ -  ##### CodeForces round:
+    - went really nicely, solved 2 of them with only a couple of ups and down, definitly improving!
+    - 1820A: really easy, solved in 30 mins with 0 fails
+    - 1820B: Relatively easy, missed an important observation which caused 2 fail, then used int instead of long long which caused 1 more fail
+
+- ##### UTPC 2023 Spring Open:
+    - Anime-based and very memey. Wasn't really challenging but I did a few problems and definitly very fun!
+    - favorite: UTPC-2023-springC (milking cow problem)
+    - bad problem writing though
+- ##### Indigo Coding Competition:
+    - Extremely well made and very fun. Only got through the first 4 (easy ranked) problem and got frustrated at the fifth (Building Blocks) one even though it was really easy
+    - Played Minecraft after the contest with some of the members. Indigo was a really fun place overall.
+
+
+
 ### 04/14/2023
 - new file:   CODEFORCES/1000/1765E.cpp
 - new file:   CODEFORCES/1000/1765M.cpp
