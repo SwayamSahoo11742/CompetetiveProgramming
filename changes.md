@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 04/17/2023
+- new file:   CODEFORCES/1000/1761B.cpp
+- new file:   HACKERRANK/INDIGO-2023/Burning-Trees.cpp
+- new file:   HACKERRANK/INDIGO-2023/Octopus-Shenanigans.cpp
+
 ### 04/16/2023
 - new file:   ALGORITHMS/BFS.cpp
 - new file:   ALGORITHMS/DFS.cpp
