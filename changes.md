@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 04/18/2023
+- new file:   CODEFORCES/1000/1760D.cpp
+- new file:   CODEFORCES/1100/1759C.cpp
+- new file:   CODEFORCES/1100/1760E.cpp
+
 ### 04/17/2023
 - new file:   CODEFORCES/1000/1761B.cpp
 - new file:   HACKERRANK/INDIGO-2023/Burning-Trees.cpp
