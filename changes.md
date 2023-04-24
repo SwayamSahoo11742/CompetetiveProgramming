@@ -1,5 +1,73 @@
 #### Starting from 04/02/2023
 
+### 04/23/2023
+- modified:   CMIMC/auctionhouseAI/grader.py
+- modified:   CMIMC/auctionhouseAI/instructions (2).txt
+- modified:   CMIMC/auctionhouseAI/main.py
+- modified:   CMIMC/auctionhouseAI/strategy.py
+- modified:   CMIMC/lebombJamesAI/grader.py
+- modified:   CMIMC/lebombJamesAI/grid.py
+- modified:   CMIMC/lebombJamesAI/history.game
+- modified:   CMIMC/lebombJamesAI/instructions (3).txt
+- modified:   CMIMC/lebombJamesAI/main.py
+- modified:   CMIMC/lebombJamesAI/requirements.txt
+- modified:   CMIMC/lebombJamesAI/strategy.py
+- modified:   CMIMC/lebombJamesAI/test.py
+- modified:   CMIMC/lebombJamesAI/visualizer.py
+- new file:   CMIMC/All Problems.pdf
+- new file:   CODEFORCES/900/1742C.cpp
+
+CMIMC ended sad. CMIMC was very fun, the staff were interacting and not professional which I enjoyed very much! It was really fun talking with the people there and sharing strategies at the end. In the test leaderboards I am 7th! lets see what happens in the final grading tommorow. It was relaly fun coming up with strategies for both of them and I really enjoyed them. For auction house, at least I didn't lose to `return 5` also theres no way 
+`min(wallet, opp_wallet + 1, history[-1][0] + 1)` did so well :skull:. Definetly look forward to these.
+
+None of us did TwoMaze, but one did L3, the code I will try to get from him. 
+
+ended the day with an easy, humble CF question
+
+Great end to a great break!
+
+### 04/22/2023
+
+- new file:   CMIMC/TwoMaze/carnegie.py
+- new file:   CMIMC/TwoMaze/grader.py
+- new file:   CMIMC/TwoMaze/instructions (4).txt
+- new file:   CMIMC/TwoMaze/main.py
+- new file:   CMIMC/TwoMaze/maze_generators.py
+- new file:   CMIMC/TwoMaze/mellon.py
+- modified:   CMIMC/auctionhouseAI/grader.py
+- modified:   CMIMC/auctionhouseAI/instructions (2).txt
+- modified:   CMIMC/auctionhouseAI/main.py
+- modified:   CMIMC/auctionhouseAI/strategy.py
+- new file:   CMIMC/lebombJamesAI/grader.py
+- new file:   CMIMC/lebombJamesAI/grid.py
+- new file:   CMIMC/lebombJamesAI/history.game
+- new file:   CMIMC/lebombJamesAI/instructions (3).txt
+- new file:   CMIMC/lebombJamesAI/main.py
+- new file:   CMIMC/lebombJamesAI/requirements.txt
+- new file:   CMIMC/lebombJamesAI/strategy.py
+- new file:   CMIMC/lebombJamesAI/test.py
+- new file:   CMIMC/lebombJamesAI/visualizer.py
+
+Oh its going GREAT! I probably won't be in the top boards but I am having a blast making the ai. I quit on TwoMaze tho. Lebomb James is a very fun question, albeit more complex than Auction House
+
+
+
+### 04/21/2023
+- new file:   CMIMC/TwoMaze/carnegie.py
+- new file:   CMIMC/TwoMaze/grader.py
+- new file:   CMIMC/TwoMaze/instructions (4).txt
+- new file:   CMIMC/TwoMaze/main.py
+- new file:   CMIMC/TwoMaze/maze_generators.py
+- new file:   CMIMC/TwoMaze/mellon.py
+- new file:   CMIMC/auctionhouseAI/grader.py
+- new file:   CMIMC/auctionhouseAI/instructions (2).txt
+- new file:   CMIMC/auctionhouseAI/main.py
+- new file:   CMIMC/auctionhouseAI/strategy.py
+- new file:   CODEFORCES/1100/1742D.cpp
+
+CMIMC! I probably won't be doing CF problems for the next few days because of this. Found a cool group of people for my group and I'm very excited because I have never done this type of things. I will do Lebomb James tomorrow.
+
+
 ### 04/20/2023
 
 - new file:   CODEFORCES/1000/1744C.cpp
