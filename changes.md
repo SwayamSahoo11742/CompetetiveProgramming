@@ -1,5 +1,14 @@
 #### Starting from 04/02/2023
 
+### 04/24/2023
+- new file:   CMIMC/L3/l3p1.xlsx
+- new file:   CMIMC/L3/l3p2.xlsx
+- new file:   CMIMC/L3/l3p31r.xlsx
+- new file:   CMIMC/L3/l3p4.xlsx
+- new file:   CODEFORCES/1100/1739B.cpp
+- new file:   CODEFORCES/1100/1741C.cpp
+- new file:   CODEFORCES/900/1737A.cpp
+
 ### 04/23/2023
 - modified:   CMIMC/auctionhouseAI/grader.py
 - modified:   CMIMC/auctionhouseAI/instructions (2).txt
