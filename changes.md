@@ -1,5 +1,15 @@
 #### Starting from 04/02/2023
 
+### 04/29/2021
+- new file:   CODEFORCES/1000/1721B.cpp
+- new file:   CODEFORCES/1000/1725B.cpp
+- new file:   CODEFORCES/1100/1722D.cpp
+
+### 04/28/2023
+-  Learned:    Bitmasks and masks
+- new file:   CODEFORCES/1100/1726B.cpp
+- new file:   CODEFORCES/900/1726A.cpp
+
 ### 04/27/2023
 - new file:   CODEFORCES/1000/1732A.cpp
 - new file:   CODEFORCES/1100/1728C.cpp
