@@ -1,48 +1,51 @@
 #include <bits/stdc++.h>
+
 using namespace std;
-int main(){
-    int T; cin >> T;
-    while(T--){
-        int n; cin >> n;
-        map<int, vector<int>> m;
-        vector<int> a(n);
-        set<int> unq;
-        for(int i = 0; i < n; i++){
-            cin >> a[i];
-            m[a[i]].push_back(i);
-            unq.insert(a[i]);
-        }
 
-        
-        int ans = 1;
-        for(int i : unq){
-            if(count(a.begin(), a.end(), i) < 2){
-                ans = -1;
-                break;
-            }
-        }
-        if(ans == -1){
-            cout << ans << endl;
-            continue;
-        }
+#define ll long long
+typedef vector<ll> vll;
+#define io                            \
+    ios_base::sync_with_stdio(false); \
+    cin.tie(NULL);                    \
+    cout.tie(NULL)
 
-        vector<int> shuffle;
+int main()
+{
+    io;
+    ll tc;
+    cin >> tc;
+    while (tc--)
+    {
+        ll n;
+        cin >> n;
+        vll s(n), p(n);
+        for (ll i = 0; i < n; ++i)
+            cin >> s[i];
 
-        for(int i = 0; i < n; i++){
+        ll l = 0, r = 0;
+        bool ans = true;
+        for (ll i = 0; i < n; ++i)
+            p[i] = i + 1;
 
-            shuffle.push_back(m[a[i]][*find(m[a[i]].begin(), m[a[i]].end(), i) - 1]);
-            for(auto j : m[a[i]]){
-                if(j != i){
-                    
-                    shuffle.push_back(j+1);
-                    break;
-                }
-            }
+        while (r < n)
+        {
+            while (r < n - 1 and s[r] == s[r + 1]) // get range [l,r] with equal values
+                ++r;
+            if (l == r)
+                ans = false;
+            else
+                rotate(p.begin() + l, p.begin() + r, p.begin() + r + 1); // rotate right in range [l,r]
+            l = r + 1;
+            ++r;
         }
-
-        for(auto i : shuffle){
-            cout << i << " ";
+        if (ans)
+        {
+            for (auto &x : p)
+                cout << x << " ";
+            cout << endl;
         }
-        cout << endl;
+        else
+            cout << -1 << endl;
     }
+    return 0;
 }
