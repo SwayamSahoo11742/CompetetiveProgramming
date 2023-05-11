@@ -1,24 +1,31 @@
 #### Starting from 04/02/2023
 
+### 05/10/2023
+- new file:   CODEFORCES/1100/1675C.cpp
+
+### 05/09/2023
+- new file:   CODEFORCES/1000/1674C.cpp
+- new file:   CODEFORCES/1000/1676D.cpp
+
 ### 05/08/2023
-- newfile:   CODEFORCES/1100/1676E.cpp
-- newfile:   CODEFORCES/1100/1682B.cpp
+- new file:   CODEFORCES/1100/1676E.cpp
+- new file:   CODEFORCES/1100/1682B.cpp
 
 ### 05/07/2023
  - ALLIANCE TOURNAMENT
 
 ### 05/06/2023
-- newfile:   CODEFORCES/1100/1829F.cpp
-- newfile:   CODEFORCES/800/1829A.cpp
-- newfile:   CODEFORCES/800/1829B.cpp
-- newfile:   CODEFORCES/900/1829C.cpp
-- newfile:   CODEFORCES/900/1829D.cpp
-- newfile:   CODEFORCES/1100/1829F.cpp
+- new file:   CODEFORCES/1100/1829F.cpp
+- new file:   CODEFORCES/800/1829A.cpp
+- new file:   CODEFORCES/800/1829B.cpp
+- new file:   CODEFORCES/900/1829C.cpp
+- new file:   CODEFORCES/900/1829D.cpp
+- new file:   CODEFORCES/1100/1829F.cpp
 
 ### 05/05/2023
-- newfile:   CODEFORCES/1000/1690D.cpp
+- new file:   CODEFORCES/1000/1690D.cpp
 - modified:   CODEFORCES/1000/1691B.cpp
-- newfile:   CODEFORCES/1100/1685A.cpp
+- new file:   CODEFORCES/1100/1685A.cpp
 
 ### 05/04/2023
 - new file:   CODEFORCES/1000/1691B.cpp
