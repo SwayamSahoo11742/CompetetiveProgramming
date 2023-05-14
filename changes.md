@@ -1,5 +1,14 @@
 #### Starting from 04/02/2023
 
+### 05/13/2023
+- new file:   CODEFORCES/1200/1822D.cpp
+- new file:   CODEFORCES/1300/1821C.cpp
+- new file:   CODEFORCES/1100/1672C.cpp
+
+### 05/12/2023
+- new file:    CODEFORCES/1200/1822.cpp
+- new file:   Turing Cup/A.cpp
+
 ### 05/11/2023
 - new file:   CODEFORCES/1100/1673B..cpp
 - new file:   CODEFORCES/1200/1822.cpp
