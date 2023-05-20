@@ -1,5 +1,18 @@
 #### Starting from 04/02/2023
 
+### 05/19/2023
+- new file:   CODEFORCES/1200/1790D.cpp
+- new file:   CODEFORCES/1300/1786B.cpp
+- new file:   RUNIC'23/Q1.cpp
+- new file:   USACO/1-2-Friday13th.cpp
+- new file:   USACO/1-2-Necklace.cpp
+
+### 05/18/2023
+- new file:   CODEFORCES/1200/1792B.cpp
+- new file:   CODEFORCES/1200/1826A.cpp
+- new file:   CODEFORCES/1300/1826C.cpp
+- new file:   USACO/1-2-GreedyGifters.cpp
+
 ### 05/17/2023
 - new file:   CODEFORCES/1100/1832B.cpp
 - new file:   CODEFORCES/1200/1832C.cpp
