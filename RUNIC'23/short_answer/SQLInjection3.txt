@@ -1,0 +1,15 @@
+
+ALTER TABLE cs_database
+
+ADD COLUMN first_name VARCHAR(50),
+
+ADD COLUMN last_name VARCHAR(50),
+
+ADD COLUMN officer_id INT AUTO_INCREMENT PRIMARY KEY;
+
+
+UPDATE cs_database
+
+SET first_name = SUBSTRING_INDEX(name, ' ', 1),
+
+    last_name = SUBSTRING_INDEX(name, ' ', -1);

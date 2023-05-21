@@ -1,0 +1,45 @@
+namespace CSClub;
+
+enum ContestType : byte {
+  USACO = 0,
+  ACSL = 1,
+  KGGL = 2
+}
+
+table USACOProblem {
+  name: string;                 // 7-character problem name (all caps)
+  runtime: double;              // Problem runtime (between 0 and 10000)
+  space: double;                // Problem space (between 0 and 10000)
+  input_file (file_extension): string;    // Data input file (CSV format)
+}
+
+table ACSLProblem {
+  id: string;                  
+  is_short_answer: bool;       
+  input_file (file_extension): string;    // Data input file (CSV format)
+}
+
+enum KGGLProblemType : byte {
+  NLP = 0,
+  CLASSIFICATION = 1,
+  DATA_CLEANING = 2
+}
+
+table KGGLProblem {
+  id: string;                   // 10-digit ID
+  problem_type: KGGLProblemType;   // Type of KGGL problem
+  input_file (file_extension): string;    // Data input file (CSV format)
+}
+
+union Problem {
+  USACOProblem,
+  ACSLProblem,
+  KGGLProblem
+}
+
+table ProblemDatabase {
+  contest_type: ContestType;     // Contest type (USACO, ACSL, KGGL)
+  problem: Problem;              // Problem details based on the contest type
+}
+
+root_type ProblemDatabase;

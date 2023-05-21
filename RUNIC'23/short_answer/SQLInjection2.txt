@@ -1,0 +1,32 @@
+
+A
+
+-----------------------
+
+SELECT age
+
+FROM cs_database
+
+WHERE age BETWEEN 15 AND 18
+
+ORDER BY age ASC;
+
+B
+
+-----------------------
+
+SELECT name
+
+FROM cs_database
+
+WHERE movie_pref LIKE 'Jurassic%' OR movie_pref LIKE 'Star%';
+
+C
+
+-----------------------
+
+SELECT name
+
+FROM cs_database
+
+WHERE pres LIKE 'James%' OR pres LIKE '%Roosevelt';
