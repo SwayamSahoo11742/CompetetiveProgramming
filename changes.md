@@ -1,5 +1,42 @@
 #### Starting from 04/02/2023
 
+### 05/21/2023
+- modified:   RUNIC'23/programming/Q10.cpp
+- modified:   RUNIC'23/programming/Q4.cpp
+- modified:   RUNIC'23/programming/Q7.cpp
+- new file:   RUNIC'23/programming/Q8.cpp
+- modified:   RUNIC'23/programming/Q9.cpp
+- new file:   RUNIC'23/short_answer/BitString1.py
+- modified:   RUNIC'23/short_answer/Round2-1.py
+- modified:   RUNIC'23/short_answer/Round2-1.txt
+- new file:   RUNIC'23/short_answer/Round2-2.txt
+- new file:   RUNIC'23/short_answer/Round2-3.txt
+- new file:   RUNIC'23/short_answer/Round3.txt
+- new file:   RUNIC'23/short_answer/Round4.txt
+- new file:   RUNIC'23/short_answer/Round6.txt
+- modified:   changes.md
+- new file:   count.py
+
+### 05/20/2023
+- new file:   RUNIC'23/programming/Q10.cpp
+- new file:   RUNIC'23/programming/Q4.cpp
+- new file:   RUNIC'23/programming/Q5.cpp
+- new file:   RUNIC'23/programming/Q6.cpp
+- new file:   RUNIC'23/programming/Q7.cpp
+- new file:   RUNIC'23/programming/Q9.cpp
+- new file:   RUNIC'23/short_answer/FlatBuffer1.txt
+- new file:   RUNIC'23/short_answer/FlatBuffer2.py
+- new file:   RUNIC'23/short_answer/Round2-1.py
+- new file:   RUNIC'23/short_answer/Round2-1.txt
+- new file:   RUNIC'23/short_answer/SQLInjection1.txt
+- new file:   RUNIC'23/short_answer/SQLInjection2.txt
+- new file:   RUNIC'23/short_answer/SQLInjection3.txt
+- new file:   TACO'23/A1.cpp
+- new file:   TACO'23/A2.cpp
+- new file:   TACO'23/B2.cpp
+- new file:   TACO'23/C2.cpp
+- new file:   TACO'23/D2.cpp
+
 ### 05/19/2023
 - new file:   CODEFORCES/1200/1790D.cpp
 - new file:   CODEFORCES/1300/1786B.cpp

@@ -1,0 +1,53 @@
+A
+
+-------------------------------------
+
+Set X5 as the number of starting runes for Rithwik (in base 5)
+
+X5 < 12 (base 5)
+
+
+Set MAX_RUNES_ALLOWED as 12 (base 5, 7 in base 10)
+
+
+Set totalRunes as X5
+
+Infinetly:
+
+
+  If totalRunes is greater than MAX_RUNES_ALLOWED:
+
+    totalRunes = totalRunes - 10 (base 5, 5 in base 10)
+
+    End turn
+
+
+  Else:
+
+    totalRunes = totalRunes + 4 (base 5, 4 in base 10)
+
+
+  If totalRunes - MAX_RUNES_ALLOWED greater than or equal to 2 (base 5, 2 in base 10):
+
+    Discard all the runes
+
+    Set totalRunes as 0
+
+    End Turn
+
+
+  End Turn 
+
+
+B 
+
+---------------------------------------------------
+
+At the end of 10(base 5)th turn, he will have 3 (base 5) runes
+
+
+This is the same as the starting number, so it keeps on going in a cycle as such;
+
+3 -> 7 -> 0 -> 4 -> 8 -> 3 ...
+
+

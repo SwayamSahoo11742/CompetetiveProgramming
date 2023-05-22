@@ -3,18 +3,30 @@ def f(x, y):
 
     while True:
         if x > y:
-            x, y = -y, -2 * x
+            tx = x
+            x = -y
+            y = -2 * tx
+
         elif x < y:
-            x, y = x - 4, y / 2
-        elif x == 7 and x != y:
+            x -= 4
+            y /= 2
+
+        elif x == 7 and x!=y:
             y = 3
+            
+
         elif x == y:
-            x, y = y + 3, x - 3
+            tx=x
+            x = y + 3
+            y = tx - 3
 
+        print(f"ITERATION:{iteration}||||x:{x} y:{y}")
         iteration += 1
+        if(iteration == 7):
+            break
+        
 
-        if(x == 7 and x != y):
-            return iteration
+    return iteration
         
 
 x, y = -7, -11
