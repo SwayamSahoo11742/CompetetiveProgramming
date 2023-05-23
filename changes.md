@@ -1,5 +1,24 @@
 #### Starting from 04/02/2023
 
+### 05/22/2023
+- modified:   RUNIC'23/programming/Q4.cpp
+- new file:   TACO'23/C1.cpp
+- modified:   TACO'23/D2.cpp
+
+Revisions! Day 1
+Revisions left:
+    TACO:
+        All unsolved in begginer section
+            B1,D1,E1,F1,E2,F2, G2, H2 (if in difficulty range) 
+    RUNIC:
+        Q8 (solve)
+        Q10 (Fix, Brute force)
+        Q5 (Improve O(n^2))
+        Q9 (Improve O(n^2))
+        Also Bit Lifting
+
+
+
 ### 05/21/2023
 - modified:   RUNIC'23/programming/Q10.cpp
 - modified:   RUNIC'23/programming/Q4.cpp
@@ -16,6 +35,7 @@
 - new file:   RUNIC'23/short_answer/Round6.txt
 - modified:   changes.md
 - new file:   count.py
+
 
 ### 05/20/2023
 - new file:   RUNIC'23/programming/Q10.cpp

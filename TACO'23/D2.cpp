@@ -1,38 +1,45 @@
+
 #include <bits/stdc++.h>
 using namespace std;
+#define int int64_t
+#define sp << ' ' <<
+#define nl << '\n'
 
-int main() {
-    int n, m;
-    cin >> n >> m;
-    
-    vector<pair<int, int>> pole(n);
-    for (int i = 0; i < n; i++) {
-        cin >> pole[i].first >> pole[i].second;
+signed main() {
+    cin.tie(0)->sync_with_stdio(0);
+
+    int n, m; cin >> n >> m;
+
+    array<int, 2> a[n+m]; // array of both laps and people
+    int ans[m] {};
+
+    for(int i = 0; i < n; i++){
+        cin >> a[i][0] >> a[i][1];
     }
-    
-    sort(pole.begin(), pole.end()); // Sort the pole vector based on the first element (position)
-    
-    vector<int> ppl(m);
-    for (int i = 0; i < m; i++) {
-        cin >> ppl[i];
+    for(int i = 0; i < m; i++){
+        cin >> a[n+i][0];
+        a[n+i][1] = -i;
     }
-    
-    for (int i = 0; i < m; i++) {
-        int ma = 0;
-        
-        auto it = lower_bound(pole.begin(), pole.end(), make_pair(ppl[i], -1));
-        
-        if (it != pole.end()) {
-            ma = max(ma, it->second - abs(ppl[i] - it->first));
+
+    sort(a, a+n+m);
+    int cur = -1;
+    for(auto [x,y] : a){
+        if(y > 0){
+            cur = max(cur, x+y);
+        }else{
+            ans[-y] = max(ans[-y], cur - x);
         }
-        
-        if (it != pole.begin()) {
-            it--;
-            ma = max(ma, it->second - abs(ppl[i] - it->first));
-        }
-        
-        cout << ma << endl;
     }
-    
-    return 0;
+
+    reverse(a, a+n+m);
+    cur = 1e18;
+    for(auto [x,y] : a){
+        if(y > 0){
+            cur = min(cur, x-y);
+        } else {
+            ans[-y] = max(ans[-y], x - cur);
+        } 
+    }
+
+    for(int i :ans){cout << i  << endl;}
 }
