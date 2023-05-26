@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 05/23/2023
+- new file:   TACO'23/D1.cpp
+- new file:   TACO'23/E2.cpp
+- new file:   USACO/Contests/2023-bronze-1-hungry-cow.cpp
+
 ### 05/22/2023
 - modified:   RUNIC'23/programming/Q4.cpp
 - new file:   TACO'23/C1.cpp
