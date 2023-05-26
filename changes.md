@@ -1,5 +1,15 @@
 #### Starting from 04/02/2023
 
+### 05/25/23
+- new CODEFORCES/1300/1768C.cpp
+- new CODEFORCES/1300/1775B.cpp
+- new CODEFORCES/1300/1776H.cpp
+
+### 05/24/23
+- new USACO/Guide/1-3-MilkingCows.cpp
+- new USACO/Guide/milk2.in
+- new USACO/Guide/milk2.out
+
 ### 05/23/2023
 - new file:   TACO'23/D1.cpp
 - new file:   TACO'23/E2.cpp
