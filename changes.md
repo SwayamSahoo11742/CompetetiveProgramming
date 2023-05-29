@@ -1,5 +1,15 @@
 #### Starting from 04/02/2023
 
+### 05/28/2023
+- new file:   USACO/Guide/1-3-Name-that-number.cpp
+- new file:   CODEFORCES/1000/1831C.cpp
+- new file:   CODEFORCES/900/1831A.cpp
+- new file:   CODEFORCES/900/1831B.cpp
+
+### 05/27/2023        
+- new file:   CODEFORCES/1200/1747C.cpp
+- new file:   USACO/Guide/1-3-Transformations.cpp
+
 ### 05/26/2023
 - new file:   CODEFORCES/1200/1753A1.cpp
 - new file:   CODEFORCES/1200/1763B.cpp
