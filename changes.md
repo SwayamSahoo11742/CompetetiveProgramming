@@ -1,5 +1,16 @@
 #### Starting from 04/02/2023
 
+### 05/30/23
+new file:   CODEFORCES/1200/1738B.cpp
+new file:   CODEFORCES/1200/1742E.cpp
+
+
+### 05/29/23
+new file:   CODEFORCES/1200/1744D.cpp
+new file:   CODEFORCES/1300/1741D.cpp
+new file:   CODEFORCES/1300/1746C.cpp
+new file:   USACO/Guide/1-3-Palindrome-square
+
 ### 05/28/2023
 - new file:   USACO/Guide/1-3-Name-that-number.cpp
 - new file:   CODEFORCES/1000/1831C.cpp
