@@ -1,20 +1,29 @@
 #### Starting from 04/02/2023
 
+### 06/06/23
+- new file:   CODEFORCES/1000/1840A.cpp
+- new file:   CODEFORCES/1100/1840B.cpp
+- new file:   CODEFORCES/1300/1840C.cpp
+
+### 06/05/23
+- new file:   CODEFORCES/1200/1713C.cpp
+- new file:   CODEFORCES/1300/1711B.cpp
+
 ### 06/04/23
-new file:   CODEFORCES/1000/1838B.cpp
-new file:   CODEFORCES/1000/1839A.cpp
-new file:   CODEFORCES/1100/1838C.cpp
+- new file:   CODEFORCES/1000/1838B.cpp
+- new file:   CODEFORCES/1000/1839A.cpp
+- new file:   CODEFORCES/1100/1838C.cpp
 
 ### 06/03/23
-new file:   CODEFORCES/1100/1839B.cpp
-new file:   CODEFORCES/1200/1720C.cpp
-new file:   CODEFORCES/1200/1839C.cpp
+- new file:   CODEFORCES/1100/1839B.cpp
+- new file:   CODEFORCES/1200/1720C.cpp
+- new file:   CODEFORCES/1200/1839C.cpp
 
 ### 06/02/23
-new file:   CODEFORCES/1300/1717C.cpp
-new file:   CODEFORCES/1300/1726C.cpp
-new file:   CODEFORCES/900/1838A.cpp
-new file:   USACO/Guide/1-3-Dual-Palindrome.cpp
+- new file:   CODEFORCES/1300/1717C.cpp
+- new file:   CODEFORCES/1300/1726C.cpp
+- new file:   CODEFORCES/900/1838A.cpp
+- new file:   USACO/Guide/1-3-Dual-Palindrome.cpp
 
 ### 06/01/23
 - new file:   CODEFORCES/1200/1729D.cpp
