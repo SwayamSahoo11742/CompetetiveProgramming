@@ -1,5 +1,11 @@
 #### Starting from 04/02/2023
 
+### 06/07/23
+- new file:   CODEFORCES/1200/1704C.cpp
+- new file:   CODEFORCES/1300/1703F.cpp
+- new file:   USACO/Guide/1-4-Mixing-milk.cpp
+
+
 ### 06/06/23
 - new file:   CODEFORCES/1000/1840A.cpp
 - new file:   CODEFORCES/1100/1840B.cpp
