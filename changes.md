@@ -1,5 +1,11 @@
 #### Starting from 04/02/2023
 
+### 06/08/23
+- new file:   CODEFORCES/1200/1694B.cpp
+- new file:   CODEFORCES/1200/1703E.cpp
+- new file:   CODEFORCES/1300/1698C.cpp
+- new file:   USACO/Guide/1-4-Barn-Repair.cpp
+
 ### 06/07/23
 - new file:   CODEFORCES/1200/1704C.cpp
 - new file:   CODEFORCES/1300/1703F.cpp
