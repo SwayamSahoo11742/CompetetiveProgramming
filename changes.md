@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 06/09/23
+- new file:   CODEFORCES/1300/1629F.cpp
+- new file:   CODEFORCES/1300/1693A.cpp
+- new file:   USACO/Guide/1-4-Prime-Cryptarithm.cpp
+
 ### 06/08/23
 - new file:   CODEFORCES/1200/1694B.cpp
 - new file:   CODEFORCES/1200/1703E.cpp
