@@ -17,7 +17,6 @@ void dfs(int node){
     }
 }
 
-
 int main(){
     int b; cin >> b;
     int c; cin >> c;
