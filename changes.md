@@ -1,5 +1,11 @@
 #### Starting from 04/02/2023
 
+### 06/15/23
+new file:   CODEFORCES/1200/1669E.cpp
+new file:   CODEFORCES/1300/1661B.cpp
+modified:   CODEFORCES/1300/1676F.cpp
+
+**I Forgot to record the days between but I did do atleats 3 for all of them**
 
 ### 06/13/23
 

@@ -1,37 +1,27 @@
-#include <bits/stdc++.h>
+
+#include<bits/stdc++.h>
 using namespace std;
-int main(){
-    int T; cin >> T;
-    while(T--){
-        int n, k; cin >> n >> k;
-        vector<int> a(n); 
-        set<int> s;
-        map<int,int> m;
-        for(int i = 0; i < n; i++){
-            cin >> a[i];
-            m[a[i]]++;
-            if(m[a[i]] >= k){
-                s.insert(a[i]);
-            }
-        }
-
-        vector<int> en(s.begin(), s.end());
-        sort(en.begin(), en.end());
-        if(en.empty()){
-            cout << -1 << endl;
-            continue;
-        }
-        int cur = 1, ans = -1, end=en[en.size()-1];;
-        for(int i = 1; i < en.size(); i++){
-            if(en[i]-en[i-1] == 1){
-                cur++;
-            }if(en[i]-en[i-1]!=1 || i == en.size()-1){
-                ans = max(cur, ans);
-                end = ans == cur? en[i]:ans;
-                cur = 1;
-            }
-        }
-        cout <<end-(ans-1) << " " << end <<endl;
-
-    }
+typedef long long ll;
+ 
+int n,k,x;
+map<int,int> c;
+void solve(){
+	cin>>n>>k,c.clear();
+	for(int i=1;i<=n;++i)cin>>x,++c[x];
+	int l=-1,r=-1,L=-1,R=-2;
+	for(auto &[s,t]:c){
+		if(t>=k){
+			if(r<s-1)l=r=s;
+			else r=s;
+			if(R-L+1<r-l+1)L=l,R=r;
+		}
+	}
+	if(L==-1)cout<<-1<<'\n';
+	else cout<<L<<' '<<R<<'\n';
 }
+int main(){
+	int T;
+	cin>>T;
+	while(T--)solve();
+}
+    	 	  				  	 				 		  		 		
