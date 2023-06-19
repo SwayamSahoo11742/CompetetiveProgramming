@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 06/18/23
+- new file:   CODEFORCES/1000/1836B.cpp
+- new file:   CODEFORCES/900/1836A.cpp
+- new file:   USACO/Contests/2023-bronze-3-moo-operations.cpp
+
 ### 06/17/23
 - new file:   CODEFORCES/1200/1656C.cpp
 - new file:   CODEFORCES/1300/1657C.cpp
