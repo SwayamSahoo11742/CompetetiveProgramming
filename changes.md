@@ -1,5 +1,15 @@
 #### Starting from 04/02/2023
 
+### 06/20/23
+- new file:   CODEFORCES/1000/1843C.cpp
+- new file:   CODEFORCES/800/1843A.cpp
+- new file:   CODEFORCES/900/1843B.cpp
+
+### 06/19/23
+- new file:   CODEFORCES/1300/1650D.cpp
+- new file:   USACO/Contests/2020-silver-1-berry-picking.cpp
+- new file:   USACO/Guide/1-5-Arithmetic-Prog.cpp
+
 ### 06/18/23
 - new file:   CODEFORCES/1000/1836B.cpp
 - new file:   CODEFORCES/900/1836A.cpp
