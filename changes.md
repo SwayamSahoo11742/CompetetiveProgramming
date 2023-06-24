@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 07/23/23
+- new file:   CSES/1074.cpp
+- new file:   CSES/1643.cpp
+- new file:   USACO/Contests/2019-silver-great-revegitation.cpp
+
 ### 06/22/23
 - new file:   CODEFORCES/1200/1647B.cpp
 - new file:   CODEFORCES/1300/1647C.cpp
