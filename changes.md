@@ -1,6 +1,16 @@
 #### Starting from 04/02/2023
 
-### 07/23/23
+### 06/25/23
+- new file:   CODEFORCES/1000/1842B.cpp
+- new file:   CODEFORCES/1200/1637C.cpp
+- new file:   CODEFORCES/1200/1641A.cpp
+
+### 06/24/23
+- new file:   CODEFORCES/1200/1641A.cpp
+- new file:   CODEFORCES/1300/1638C.cpp
+- new file:   CODEFORCES/900/1842A.cpp
+
+### 06/23/23
 - new file:   CSES/1074.cpp
 - new file:   CSES/1643.cpp
 - new file:   USACO/Contests/2019-silver-great-revegitation.cpp
