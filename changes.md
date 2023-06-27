@@ -1,5 +1,13 @@
 #### Starting from 04/02/2023
 
+### 06/26/23
+- new file:   CODEFORCES/1200/1472D.cpp
+- new file:   CODEFORCES/1300/1534C.cpp
+- new file:   USACO/Guide/1-5-mothers-milk.cpp
+- new file:   USACO/Guide/1-6-number-triangles.cpp
+- new file:   USACO/Guide/1-6-prime-palindrome.cpp
+- new file:   USACO/Guide/1-6-supreme-prime.cpp
+
 ### 06/25/23
 - new file:   CODEFORCES/1000/1842B.cpp
 - new file:   CODEFORCES/1200/1637C.cpp
