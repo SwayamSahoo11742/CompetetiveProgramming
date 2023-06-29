@@ -1,5 +1,9 @@
 #### Starting from 04/02/2023
 
+### 06/28/23
+- new file:   USACO/Contests/2017-Bronze-Cow-Tipping.cpp
+- new file:   USACO/Contests/2022-bronze-photoshoot.cpp
+
 ### 06/26/23
 - new file:   CODEFORCES/1200/1472D.cpp
 - new file:   CODEFORCES/1300/1534C.cpp
