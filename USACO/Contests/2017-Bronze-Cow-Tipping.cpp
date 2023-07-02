@@ -33,17 +33,10 @@ int main() {
 	int y = width - 1;
 	int min_flips = 0;
 	while (x >= 0 && y >= 0) {
-		// Flip the rectangle with lower right corner at (x, y)
 		min_flips += flip(x, y, cows);
 		if (x != y) {
-			// Also flip rectangle at (y, x) if it is different
 			min_flips += flip(y, x, cows);
 		}
-
-		/*
-		 * Transition to the next cell, first going to the left and then
-		 * to the next row if the current row has finished.
-		 */
 		if (x > 0) {
 			x--;
 		} else {
