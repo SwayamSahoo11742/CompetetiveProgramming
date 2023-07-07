@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 07/07/23- new file:   CODEFORCES/800/1846A.cpp
+- new file:   CODEFORCES/900/1846B.cpp
+- modified:   changes.md
+- new file:   git_add.py
+
 ### 07/06/23
 - new file:   ALGORITHMS/Karatsuba.py
 - new file:   CODEFORCES/1400/1847C.cpp
@@ -566,4 +571,8 @@ CodeForces Round 864 (Div 2)
 
 ### 04/02/2023
 - new file:   CODEFORCES/800/1795A.cpp
-- new file:   CODEFORCES/900/1794B.cpp
+- new file:   CODEFORCES/900/1794B.cpp- new file:   CODEFORCES/800/1846A.cpp
+- new file:   git_add.py
+- new file:     CODEFORCES/800/1846A.cpp
+- modified:     changes.md
+- new file:     git_add.py
