@@ -1,5 +1,13 @@
 #### Starting from 04/02/2023
 
+### 07/06/23
+- new file:   ALGORITHMS/Karatsuba.py
+- new file:   CODEFORCES/1400/1847C.cpp
+- new file:   CODEFORCES/800/1847A.cpp
+- new file:   CODEFORCES/900/1847B.cpp
+
+[Was too lazy to keep track]
+
 ### 06/28/23
 - new file:   USACO/Contests/2017-Bronze-Cow-Tipping.cpp
 - new file:   USACO/Contests/2022-bronze-photoshoot.cpp
