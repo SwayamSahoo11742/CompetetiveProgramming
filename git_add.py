@@ -47,7 +47,7 @@ def add_changes():
         contents = f.readlines()
 
     contents.insert(1,'\n')
-    contents.insert(2, f"### {current_date}")
+    contents.insert(2, f"### {current_date}\n")
     i = 3
     for file_name, change_type in files.items():
         contents.insert(i, f"- {change_type}: {file_name}\n")

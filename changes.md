@@ -1,9 +1,16 @@
 #### Starting from 04/02/2023
 
-### 07/07/23- new file:   CODEFORCES/800/1846A.cpp
-- new file:   CODEFORCES/900/1846B.cpp
+### 07/08/23
+- modified:   .gitignore
+- new file:   CODEFORCES/1100/1846C.cpp
+- new file:   CODEFORCES/1400/1845C.cpp
+- new file:   USACO/Guide/2-1-Sort-three-value.cpp
 - modified:   changes.md
-- new file:   git_add.py
+- modified:   git_add.py
+
+### 07/07/23
+- new file:   CODEFORCES/800/1846A.cpp
+- new file:   CODEFORCES/900/1846B.cpp
 
 ### 07/06/23
 - new file:   ALGORITHMS/Karatsuba.py
@@ -11,7 +18,7 @@
 - new file:   CODEFORCES/800/1847A.cpp
 - new file:   CODEFORCES/900/1847B.cpp
 
-[Was too lazy to keep track]
+[Was too lazy to keep track, but now we have a auto system so thats good]
 
 ### 06/28/23
 - new file:   USACO/Contests/2017-Bronze-Cow-Tipping.cpp
