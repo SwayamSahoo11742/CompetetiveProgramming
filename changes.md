@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 07/09/23
+- new file:   CODEFORCES/1300/1788C.cpp
+- new file:   CODEFORCES/1400/1790E.cpp
+- new file:   USACO/Guide/2-1-healthy-holestiens.cpp
+
 ### 07/08/23
 - modified:   .gitignore
 - new file:   CODEFORCES/1100/1846C.cpp
