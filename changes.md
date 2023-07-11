@@ -1,5 +1,11 @@
 #### Starting from 04/02/2023
 
+### 07/10/23
+- new file:   CODEFORCES/1300/1778B.cpp
+- new file:   CODEFORCES/1400/1771B.cpp
+- new file:   CODEFORCES/1400/1772D.cpp
+- new file:   USACO/Contests/2022-silver-drought.cpp
+
 ### 07/09/23
 - new file:   CODEFORCES/1300/1788C.cpp
 - new file:   CODEFORCES/1400/1790E.cpp
