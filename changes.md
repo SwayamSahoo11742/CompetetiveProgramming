@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 07/13/23
+- new file:   CODEFORCES/1400/1758C.cpp
+- new file:   CODEFORCES/1400/1761B.cpp
+- new file:   USACO/Guide/2-1-The-Castle.cpp
+
 ### 07/12/23
 - new file:   USACO/Guide/2-1-hammingCodes.cpp
 - modified:   git_add.py
