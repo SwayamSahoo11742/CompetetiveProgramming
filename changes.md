@@ -1,5 +1,13 @@
 #### Starting from 04/02/2023
 
+### 07/16/23
+- new file:   CODEFORCES/1300/1848A.cpp
+- new file:   CODEFORCES/900/1848A.cpp
+- new file:   CSES/1671.cpp
+- new file:   CSES/e
+- new file:   USACO/Contests/2016-platinum-fenced-in.cpp
+- new file:   USACO/Contests/2019-silver-milk-visits.cpp
+
 ### 07/13/23
 - new file:   CODEFORCES/1400/1758C.cpp
 - new file:   CODEFORCES/1400/1761B.cpp
