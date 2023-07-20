@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 07/19/23
+- new file:   CODEFORCES/1300/1733C.cpp
+- new file:   CODEFORCES/1400/1728C.cpp
+- modified:   git_add.py
+
 ### 07/18/23
 - new file:   CODEFORCES/1300/1023C.cpp
 - new file:   CODEFORCES/1300/1846E1.cpp
