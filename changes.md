@@ -1,5 +1,18 @@
 #### Starting from 04/02/2023
 
+### 07/21/23
+- new file:   ATCODER/DP-Frog1.cpp
+- new file:   CODEFORCES/1300/1850E.cpp
+- new file:   CODEFORCES/1300/1850E.py
+- new file:   CODEFORCES/1400/1850F.cpp
+- new file:   CODEFORCES/1500/1418C.cpp
+- new file:   CODEFORCES/800/1850A.cpp
+- new file:   CODEFORCES/800/1850B.cpp
+- new file:   CODEFORCES/800/1850C.cpp
+- new file:   CODEFORCES/900/1850D.cpp
+- new file:   CSES/1633.cpp
+- modified:   git_add.py
+
 ### 07/19/23
 - new file:   CODEFORCES/1300/1733C.cpp
 - new file:   CODEFORCES/1400/1728C.cpp
