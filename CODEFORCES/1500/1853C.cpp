@@ -1,41 +1,24 @@
 #include <iostream>
 #include <vector>
 #include <queue>
-
+#define ll long long
 using namespace std;
 
 int main() {
-    int t;
-    cin >> t;
-
+    int t; cin >> t;
     while (t--) {
-        int n, k;
-        cin >> n >> k;
+        ll n, k; cin >> n >> k;
+        vector<ll> a(n);
+        for (int i = 0; i < n; i++)
+            cin >> a[i];
 
-        vector<int> elements(n);
-        for (int i = 0; i < n; ++i) {
-            cin >> elements[i];
+        ll j = 0, x = 1;
+        while (k--) {
+            while (j < n && a[j] <= x+j)
+                j++;
+            x += j;
         }
 
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-
-        for (int i = 0; i < n; ++i) {
-            pq.push({elements[i], i});
-        }
-
-        while (k > 0) {
-            auto [value, position] = pq.top();
-            pq.pop();
-
-            int removed_elements = position - (pq.empty() ? 0 : pq.top().second);
-            k -= removed_elements;
-
-            position += n;
-            pq.push({value, position});
-        }
-
-        cout << pq.top().first << endl;
+        cout << x << "\n";
     }
-
-    return 0;
 }
