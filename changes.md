@@ -1,5 +1,13 @@
 #### Starting from 04/02/2023
 
+### 07/23/23
+- new file:   CODEFORCES/1400/1835B.cpp
+- new file:   CODEFORCES/1500/1853C.cpp
+- new file:   CODEFORCES/800/1853A.cpp
+- new file:   CSES/1634.cpp
+- new file:   CSES/1635.cpp
+- new file:   CSES/1636.cpp
+
 ### 07/21/23
 - new file:   ATCODER/DP-Frog1.cpp
 - new file:   CODEFORCES/1300/1850E.cpp
