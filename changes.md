@@ -1,5 +1,11 @@
 #### Starting from 04/02/2023
 
+### 07/25/23
+- new file:   CODEFORCES/1100/1851C.cpp
+- new file:   CODEFORCES/1100/1851D.cpp
+- new file:   CODEFORCES/800/1851A.cpp
+- new file:   CODEFORCES/800/1851B.cpp
+
 ### 07/24/23
 - modified:   CODEFORCES/1500/1853C.cpp
 - new file:   USACO/Contests/2017-gold-HFS.cpp
