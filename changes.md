@@ -1,6 +1,12 @@
 #### Starting from 04/02/2023
 
 ### 07/29/23
+- modified:   CODEFORCES/1100/1854A1.cpp
+- new file:   CODEFORCES/1500/1842C.cpp
+- new file:   CODEFORCES/1700/1854A2.cpp
+- new file:   USACO/Guide/2-1-preface-numbering.cpp
+
+### 07/29/23
 - new file:   CODEFORCES/1000/1855B.cpp
 - new file:   CODEFORCES/1100/1854A1.cpp
 - new file:   CODEFORCES/1500/1850G.cpp
