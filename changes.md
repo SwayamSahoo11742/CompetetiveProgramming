@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 07/30/23
+- new file:   LIT/2022/A.cpp
+- new file:   LIT/2022/B.cpp
+- new file:   LIT/2022/C.cpp
+
 ### 07/29/23
 - modified:   CODEFORCES/1100/1854A1.cpp
 - new file:   CODEFORCES/1500/1842C.cpp
