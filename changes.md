@@ -1,5 +1,11 @@
 #### Starting from 04/02/2023
 
+### 7/31/23
+- new file:   CODEFORCES/1500/1817A.cpp
+- new file:   CSES/1649.cpp
+- new file:   LIT/2022/D.cpp
+- modified:   git_add.py
+
 ### 07/30/23
 - new file:   LIT/2022/A.cpp
 - new file:   LIT/2022/B.cpp
