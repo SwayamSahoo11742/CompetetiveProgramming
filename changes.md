@@ -1,6 +1,11 @@
 #### Starting from 04/02/2023
 
 ### 7/31/23
+- new file:   CODEFORCES/1500/1603B.cpp
+- new file:   CODEFORCES/1500/1811.E.cpp
+- new file:   USACO/Contests/2023-silver-preidolia.cpp
+
+### 7/31/23
 - new file:   CODEFORCES/1500/1817A.cpp
 - new file:   CSES/1649.cpp
 - new file:   LIT/2022/D.cpp
