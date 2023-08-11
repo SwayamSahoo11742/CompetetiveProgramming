@@ -1,6 +1,21 @@
 #### Starting from 04/02/2023
 
 ### 7/31/23
+- new file:   CODEFORCES/1000/1857C.cpp
+- new file:   CODEFORCES/1500/1789C.cpp
+- new file:   CODEFORCES/1500/1791F.cpp
+- new file:   CODEFORCES/1500/1792C.cpp
+- new file:   CODEFORCES/1500/1857D.cpp
+- new file:   CODEFORCES/1500/1857E.cpp
+- new file:   CODEFORCES/800/1856A.cpp
+- new file:   CODEFORCES/800/1857A.cpp
+- new file:   CODEFORCES/800/1857B.cpp
+- new file:   CODEFORCES/900/1856B.cpp
+- new file:   CODEFORCES/900/1856C.cpp
+- new file:   LIT/2023/A.cpp
+- new file:   LIT/2023/C.cpp
+
+### 7/31/23
 - new file:   CODEFORCES/1500/1785C.cpp
 - new file:   CODEFORCES/1500/1800E2.cpp
 
