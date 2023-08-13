@@ -3,7 +3,7 @@ import re
 from collections import defaultdict
 from datetime import date
 from termcolor import colored
-current_date = "7/31/23"
+current_date = date.today().strftime("%m/%d/%y")
 files = defaultdict()
 
 def git_add(step):

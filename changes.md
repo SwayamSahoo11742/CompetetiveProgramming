@@ -1,5 +1,18 @@
 #### Starting from 04/02/2023
 
+### 08/12/23
+- new file:   CODEFORCES/1500/1765N.cpp
+- new file:   CODEFORCES/1500/1774B.cpp
+- new file:   CODEFORCES/1500/1776L.cpp
+- new file:   TEAMSCODE/2023-SPRING/B.cpp
+- new file:   TEAMSCODE/2023-SPRING/C.cpp
+- new file:   TEAMSCODE/2023-SPRING/D.cpp
+- new file:   TEAMSCODE/2023-SPRING/E.cpp
+- new file:   TEAMSCODE/2023-SUMMER/C.cpp
+- new file:   TEAMSCODE/2023-SUMMER/D.cpp
+- new file:   TEAMSCODE/2023-SUMMER/e.py
+- modified:   git_add.py
+
 ### 7/31/23
 - new file:   CODEFORCES/1000/1857C.cpp
 - new file:   CODEFORCES/1500/1789C.cpp
