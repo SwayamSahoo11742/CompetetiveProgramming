@@ -1,5 +1,10 @@
 #### Starting from 04/02/2023
 
+### 08/15/23
+- new file:   CODEFORCES/1500/1760F.cpp
+- new file:   CODEFORCES/1500/1765K.cpp
+- new file:   e.py
+
 ### 08/12/23
 - new file:   CODEFORCES/1500/1765N.cpp
 - new file:   CODEFORCES/1500/1774B.cpp
