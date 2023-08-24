@@ -1,5 +1,14 @@
 #### Starting from 04/02/2023
 
+### 08/24/23
+- new file:   CODEFORCES/1400/1748B.cpp
+- new file:   CODEFORCES/1500/1742G.cpp
+- new file:   CODEFORCES/800/1862A.cpp
+- new file:   Matrix_Lab_1.java
+- new file:   chall.py
+- new file:   e.java
+- new file:   source.py
+
 ### 08/21/23
 - new file:   1.cpp
 - new file:   2.cpp
