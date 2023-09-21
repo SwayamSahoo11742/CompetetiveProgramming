@@ -1,5 +1,9 @@
 #### Starting from 04/02/2023
 
+### 09/20/23
+- new file:   CODEFORCES/1400/1691C.cpp
+- new file:   CODEFORCES/1400/1692G.cpp
+
 ### 09/18/23
 - new file:   CODEFORCES/1400/1669C.cpp
 - new file:   CODEFORCES/1400/1697C.cpp
